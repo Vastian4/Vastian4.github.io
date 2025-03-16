@@ -28,7 +28,7 @@ twitter_username: yoot
 github_username:  yoot
 
 # Build settings
-theme: minima
+theme: hacker
 plugins:
   - jekyll-feed
 
