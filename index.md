@@ -10,4 +10,4 @@ There should be whitespace between paragraphs.
 
 ### Simba image
 
-![simba](/assets/images/simba.png)
+![simba](/assets/images/simba.jpg)
