@@ -18,18 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: yooot title
-email: yoot email
+# title: yooot title
+# email: yoot email
+title: test title
 description: >- # this means to ignore newlines until "baseurl:"
   yoot description
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: yoot
-github_username:  yoot
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: yoot
+# github_username:  yoot
 
 # Build settings
-# remote_theme: pages-themes/cayman@v0.2.0
-theme: minima
+remote_theme: pages-themes/cayman@v0.2.0
+# theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme # add this line to the plugins list if you already have one
