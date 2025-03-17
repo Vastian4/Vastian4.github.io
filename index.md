@@ -14,13 +14,10 @@ There should be whitespace between paragraphs.
 
 <html>
 <head>
-    <title>Bokeh Plot Example</title>
-(click the categories)
 </head>
 <body>
     <h1>yoot bokeh plot</h1>
-
+        <p>(click the categories)</p>
     <iframe src="bk_plot.html" width="1000" height="510"></iframe>
-
     </body>
 </html>
