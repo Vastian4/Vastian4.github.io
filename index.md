@@ -15,6 +15,7 @@ There should be whitespace between paragraphs.
 <html>
 <head>
     <title>Bokeh Plot Example</title>
+(click the categories)
 </head>
 <body>
     <h1>yoot bokeh plot</h1>
