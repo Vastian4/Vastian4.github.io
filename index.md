@@ -19,7 +19,7 @@ There should be whitespace between paragraphs.
 <body>
     <h1>yoot bokeh plot</h1>
 
-    <iframe src="bk_plot.html" width="1400" height="600"></iframe>
+    <iframe src="bk_plot.html" width="800" height="510"></iframe>
 
     </body>
 </html>
