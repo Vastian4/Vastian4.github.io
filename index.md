@@ -17,7 +17,7 @@ There should be whitespace between paragraphs.
     <title>Bokeh Plot Example</title>
 </head>
 <body>
-    <h1>My Interactive Bokeh Plot</h1>
+    <h1>yoot bokeh plot</h1>
 
     <iframe src="bk_plot.html" width="1400" height="600"></iframe>
 
