@@ -8,9 +8,9 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 There should be whitespace between paragraphs.
 
-### Simba image
+### :OO
 
-![simba](/assets/images/simba.jpg)
+![50cent](/assets/images/50cent.png)
 
 <html>
 <head>
