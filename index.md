@@ -20,7 +20,7 @@ There should be whitespace between paragraphs.
 <body>
     <h1>My Interactive Bokeh Plot</h1>
 
-    <iframe src="my_bokeh_plot.html" width="800" height="600"></iframe>
+    <iframe src="bk_plot.html" width="800" height="600"></iframe>
 
     </body>
 </html>
