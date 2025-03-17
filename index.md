@@ -12,7 +12,6 @@ There should be whitespace between paragraphs.
 
 ![simba](/assets/images/simba.jpg)
 
-<!DOCTYPE html>
 <html>
 <head>
     <title>Bokeh Plot Example</title>
@@ -20,7 +19,7 @@ There should be whitespace between paragraphs.
 <body>
     <h1>My Interactive Bokeh Plot</h1>
 
-    <iframe src="bk_plot.html" width="800" height="600"></iframe>
+    <iframe src="bk_plot.html" width="1400" height="600"></iframe>
 
     </body>
 </html>
