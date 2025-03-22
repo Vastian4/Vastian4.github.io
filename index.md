@@ -12,7 +12,7 @@ layout: default
 \usepackage{graphicx}
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.7\textwidth]{figures/catenoid_colored_by_gauss_curv.PNG}
+    \includegraphics[width=0.7\textwidth]{assets/images/simba.jpg}
     \caption{The catenoid with $c = 1$ and parameters $u \in [-1, 1], v \in [- \pi, \pi)$.}
     \label{fig:catenoid_3dplot}
 \end{figure}
