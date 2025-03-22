@@ -52,7 +52,9 @@ In figure 2, we illustrate the distribution of drug related crime throughout SF.
 > also showing relatively high levels of drug related crime. On the other hand, we have Richmond and Taraval in the
 > western-most parts of SF where drug crime is largely insignificant compared to the aforementioned districts.
 
-bla bla we visualize the crime by district bla bla
+Unsurprisingly, Tenderloin and surrounding districts show the highest drug crime counts. However, one thing we are 
+still missing from these visualizations is how drug crime activity has changed over the years in individual districts.
+In figure 3, we visualize this with an interactive plot, where one can choose which districts to display.
 
 <html>
 <head>
@@ -61,3 +63,15 @@ bla bla we visualize the crime by district bla bla
     <iframe src="bk_plot2.html" width="1000" height="510"></iframe>
     </body>
 </html>
+> Figure 3: The plot shows the evolution of the number of drug related crime incidents throughout the years for each
+> district. Tenderloin, Mission and Southern seem to have been the dominating districts for drug crime activity for nearly
+> the whole time period. In periods of overall low drug crime levels, Bayview and Northern show similar counts to
+> Mission and Southern.
+
+As seen on the figure 3, Tenderloin saw significantly higher counts than both Mission and Southern in the 2000s and early 2010s as well as
+in the years 2018-2024. In the years between, all three districts saw very similar counts. Additionally, Mission and Southern seem to have
+very similar yearly counts throughout the whole time period, with Mission having slightly higher counts in the early 2000s and Southern
+having slightly higher counts in later years. The resurgence in drug crime counts of Tenderloin in later years can likely be attributed
+to the fentanyl crisis which, as discussed earlier, is currently a significant issue among the homeless population [[4]](https://www.sfchronicle.com/projects/san-francisco-drug-overdose-deaths/).
+
+
