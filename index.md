@@ -2,15 +2,13 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+## Data introduction
 
-There should be whitespace between paragraphs.
 
-### :OO
+## ---Header---
 
-![50cent](/assets/images/50cent.png)
+
 
 <html>
 <head>
