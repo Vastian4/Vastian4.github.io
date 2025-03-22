@@ -21,7 +21,7 @@ for addiction in itself, but also as a path towards even more hardcore drugs, su
 heroin. In 2017, a study showed that 80% of heroin users reported beginning with 
 prescription opiods [[1]](https://www.sfpublicpress.org/san-franciscos-fatal-overdose-crisis-was-decades-in-the-making/).
 In recent years, the use of fentanyl as seen a huge increase, especially among the homeless 
-population of SF. Figure 1 shows the change in the number of drug related crime incidents 
+population of SF. Figure 1 shows the evolution of the number of drug related crime incidents 
 throughout the years [[2]](https://www.ucsf.edu/news/2024/05/427651/smoking-fentanyl-rising-sf-deadly-new-risk-overdose#:~:text=San%20Francisco%20reached%20an%20all,cocaine%2C%20are%20on%20the%20rise.).
 
 
