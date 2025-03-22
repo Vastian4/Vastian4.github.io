@@ -26,9 +26,11 @@ throughout the years [[2]](https://www.ucsf.edu/news/2024/05/427651/smoking-fent
 
 
 ## Drug related crime trends by district
+
 As with many other types of crime, drug related crime does not usually distribute evenly over large cities.
-In general, there exist certain indicators that typically go hand in hand with high levels of drug activity.
-These are things such as 
+In general, there exist certain indicators that typically go hand in hand with large amounts of drug activity.
+These are things such as poverty level and homelessness. Tenderloin is the district of SF with the highest 
+level of homelessness and is in general known for its prevalence of social issues [[3]](https://en.wikipedia.org/wiki/Tenderloin,_San_Francisco).
 
 
 <html>
