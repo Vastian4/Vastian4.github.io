@@ -22,7 +22,7 @@ throughout the years [[2]](https://www.ucsf.edu/news/2024/05/427651/smoking-fent
 ![Fig1](assets/images/Drug_crimes_by_year.png)
 > Figure 1: The plot shows a significant decrease in the overall number of drug related crime incidents
 > since the 2000s. One can observe first a steep decrease followed by a steady decrease until crime incidents
-> hit its lowest level in the pandemic time period. Since 2022, one can observe a resurgence in crime incidents.
+> hit its lowest level in the pandemic time period. Since 2022 there has been a resurgence in crime incidents.
 
 
 
