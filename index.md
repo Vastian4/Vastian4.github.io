@@ -25,6 +25,11 @@ throughout the years [[2]](https://www.ucsf.edu/news/2024/05/427651/smoking-fent
 > hit its lowest level in the pandemic time period. Since 2022 there has been a resurgence in crime incidents.
 
 
+## Drug related crime trends by district
+As with many other types of crime, drug related crime does not usually distribute evenly over large cities.
+In general, there exist certain indicators that typically go hand in hand with high levels of drug activity.
+These are things such as 
+
 
 <html>
 <head>
