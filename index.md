@@ -19,7 +19,7 @@ population of SF. Figure 1 shows the change in the number of drug related crime 
 throughout the years.
 
 
-![Fig1](assets/images/simba.jpg)
+![Fig1](assets/images/Drug_crimes_by_year.png)
 > Figure 1: bla bla
 
 
