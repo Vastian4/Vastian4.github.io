@@ -7,11 +7,11 @@ layout: default
 ## Data introduction
 The dataset that provides the basis for this analysis is a concatenation of a historical [dataset](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry/about_data) of crime incidents recorded in San Francisco in the time period 2003-2018
 and a corresponding [dataset](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783/about_data)
-with ongoing data collection in the time period 2018-2025. It should be noted that for the
-purpose of fair comparisons between whole years, we exclude data from 2025 from this analysis.
-The dataset consists of 2342093 unique crime incidents with a number of interesting recorded
-features including, but not limited to: unique incident number, crime category, date and time
-of the incident report, geo location and district.
+with ongoing data collection in the time period 2018-2025. The dataset consists of 2342093
+unique crime incidents with a number of interesting recorded features including, but not
+limited to: unique incident number, crime category, date and time of the incident report,
+geo location and district. It should be noted that for the purpose of fair comparisons
+between whole years, we exclude data from 2025 from this analysis.
 
 ## History of drug related crimes in SF
 
