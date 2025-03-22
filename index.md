@@ -31,18 +31,20 @@ As with many other types of crime, drug related crime does not usually distribut
 In general, there exist certain indicators that typically go hand in hand with large amounts of drug activity.
 These are things such as poverty level and homelessness. Tenderloin is the district of SF with the highest 
 level of homelessness and is in general known for its prevalence of social issues [[3]](https://en.wikipedia.org/wiki/Tenderloin,_San_Francisco).
-In figure 2, we illustrate the distribution of drug related crimes throughout SF.
+In figure 2, we illustrate the distribution of drug related crime throughout SF.
 
 
 <html>
 <head>
 </head>
 <body>
-    <h1>plotly map plot</h1>
     <iframe src="plotly_plot.html" width="1000" height="510"></iframe>
     </body>
 </html>
-
+> Figure 2: The plot shows the distribution of drug related crime in all districts of SF in the time period 2003-2024.
+> It is clear from the plot that Tenderloin is by far the most significantly impacted district with Southern and Mission
+> also showing relatively high levels of drug related crime. On the other hand, we have Richmond and Taraval in the
+> western-most parts of SF where drug crime is largely insignificant compared to the aforementioned districts.
 
 
 <html>
