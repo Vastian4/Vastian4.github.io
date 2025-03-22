@@ -52,13 +52,12 @@ In figure 2, we illustrate the distribution of drug related crime throughout SF.
 > also showing relatively high levels of drug related crime. On the other hand, we have Richmond and Taraval in the
 > western-most parts of SF where drug crime is largely insignificant compared to the aforementioned districts.
 
+bla bla we visualize the crime by district bla bla
 
 <html>
 <head>
 </head>
 <body>
-    <h1>yoot bokeh plot</h1>
-        <p>(click the categories)</p>
-    <iframe src="bk_plot.html" width="1000" height="510"></iframe>
+    <iframe src="bk_plot2.html" width="1000" height="510"></iframe>
     </body>
 </html>
