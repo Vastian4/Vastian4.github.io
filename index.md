@@ -20,6 +20,9 @@ throughout the years.
 
 
 ![Fig1](assets/images/simba.jpg)
+> Figure 1: bla bla
+
+
 
 <html>
 <head>
