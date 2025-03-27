@@ -49,8 +49,8 @@ In figure 2, we illustrate the distribution of drug related crime throughout SF.
 </html>
 > Figure 2: The plot shows the distribution of drug related crime in all districts of SF in the time period 2003-2024.
 > It is clear from the plot that Tenderloin is by far the most significantly impacted district with Southern and Mission
-> also showing relatively high levels of drug related crime. On the other hand, we have Richmond and Taraval in the
-> western-most parts of SF where drug crime is largely insignificant compared to the aforementioned districts.
+> also showing relatively high levels of drug related crime. On the contrary, in Richmond and Taraval - the
+> western-most parts of SF, drug crime is largely insignificant compared to the aforementioned districts.
 
 Unsurprisingly, Tenderloin and surrounding districts show the highest drug crime counts. However, one thing we are 
 still missing from these visualizations is how drug crime activity has changed over the years in individual districts.
