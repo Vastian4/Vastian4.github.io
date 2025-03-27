@@ -15,7 +15,7 @@ between whole years, we exclude data from 2025 from this analysis.
 
 ## History of drug related crimes in SF
 
-San Francisco has a long track record of struggle against drug crime. Historically, 
+San Francisco has a long track record of struggle against drug related crime. Historically, 
 abuse of pain killers such as OxyContin has been a big problem in SF, both as a cause 
 for addiction in itself, but also as a path towards even more hardcore drugs, such as 
 heroin. In 2017, a study showed that 80% of heroin users reported beginning with 
