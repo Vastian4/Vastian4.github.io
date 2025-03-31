@@ -45,7 +45,7 @@ In figure 2, we illustrate the distribution of drug related crime throughout SF.
 <head>
 </head>
 <body>
-    <iframe src="plotly_plot.html" width="1000" height="510"></iframe>
+    <iframe src="plotly_plot1.html" width="1000" height="510"></iframe>
     </body>
 </html>
 > Figure 2: The plot shows the distribution of drug related crime in all districts of SF in the time period 2003-2024.
@@ -62,7 +62,7 @@ In figure 3, we visualize this with an interactive plot, where one can choose wh
 <head>
 </head>
 <body>
-    <iframe src="bk_plot2.html" width="1000" height="510"></iframe>
+    <iframe src="bokeh_plot2.html" width="1000" height="510"></iframe>
     </body>
 </html>
 > Figure 3: The plot shows the evolution of the number of drug related crime incidents throughout the years for each
